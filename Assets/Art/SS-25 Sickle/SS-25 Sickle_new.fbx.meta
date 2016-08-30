@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 078aaa9a28375e244910a5add4df1ac0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Gun
+    100002: GunBase
+    100004: //RootNode
+    100006: SS-25 Sickle_wheel_002
+    100008: SS-25 Sickle_wheel_003
+    100010: SS-25 Sickle_wheel_004
+    100012: SS-25 Sickle_wheel_005
+    100014: SS-25 Sickle_wheel_006
+    100016: SS-25 Sickle_wheel_007
+    100018: SS-25 Sickle_wheel_008
+    100020: SS-25 Sickle_wheel_009
+    100022: SS-25 Sickle_wheel_01
+    100024: SS-25 Sickle_wheel_010
+    100026: SS-25 Sickle_wheel_011
+    100028: SS-25 Sickle_wheel_012
+    100030: SS-25 Sickle_wheel_013
+    100032: SS-25 Sickle_wheel_014
+    100034: SS_25_Sikle_04
+    100036: SS_25_Sikle_05
+    400000: Gun
+    400002: GunBase
+    400004: //RootNode
+    400006: SS-25 Sickle_wheel_002
+    400008: SS-25 Sickle_wheel_003
+    400010: SS-25 Sickle_wheel_004
+    400012: SS-25 Sickle_wheel_005
+    400014: SS-25 Sickle_wheel_006
+    400016: SS-25 Sickle_wheel_007
+    400018: SS-25 Sickle_wheel_008
+    400020: SS-25 Sickle_wheel_009
+    400022: SS-25 Sickle_wheel_01
+    400024: SS-25 Sickle_wheel_010
+    400026: SS-25 Sickle_wheel_011
+    400028: SS-25 Sickle_wheel_012
+    400030: SS-25 Sickle_wheel_013
+    400032: SS-25 Sickle_wheel_014
+    400034: SS_25_Sikle_04
+    400036: SS_25_Sikle_05
+    2300000: Gun
+    2300002: GunBase
+    2300004: //RootNode
+    2300006: SS-25 Sickle_wheel_002
+    2300008: SS-25 Sickle_wheel_003
+    2300010: SS-25 Sickle_wheel_004
+    2300012: SS-25 Sickle_wheel_005
+    2300014: SS-25 Sickle_wheel_006
+    2300016: SS-25 Sickle_wheel_007
+    2300018: SS-25 Sickle_wheel_008
+    2300020: SS-25 Sickle_wheel_009
+    2300022: SS-25 Sickle_wheel_01
+    2300024: SS-25 Sickle_wheel_010
+    2300026: SS-25 Sickle_wheel_011
+    2300028: SS-25 Sickle_wheel_012
+    2300030: SS-25 Sickle_wheel_013
+    2300032: SS-25 Sickle_wheel_014
+    2300034: SS_25_Sikle_04
+    2300036: SS_25_Sikle_05
+    3300000: Gun
+    3300002: GunBase
+    3300004: //RootNode
+    3300006: SS-25 Sickle_wheel_002
+    3300008: SS-25 Sickle_wheel_003
+    3300010: SS-25 Sickle_wheel_004
+    3300012: SS-25 Sickle_wheel_005
+    3300014: SS-25 Sickle_wheel_006
+    3300016: SS-25 Sickle_wheel_007
+    3300018: SS-25 Sickle_wheel_008
+    3300020: SS-25 Sickle_wheel_009
+    3300022: SS-25 Sickle_wheel_01
+    3300024: SS-25 Sickle_wheel_010
+    3300026: SS-25 Sickle_wheel_011
+    3300028: SS-25 Sickle_wheel_012
+    3300030: SS-25 Sickle_wheel_013
+    3300032: SS-25 Sickle_wheel_014
+    3300034: SS_25_Sikle_04
+    3300036: SS_25_Sikle_05
+    4300000: SS_25_Sikle_01
+    4300002: Gun
+    4300004: SS_25_Sikle_04
+    4300006: SS_25_Sikle_05
+    4300008: GunBase
+    4300010: SS-25 Sickle_wheel_01
+    4300012: SS-25 Sickle_wheel_002
+    4300014: SS-25 Sickle_wheel_003
+    4300016: SS-25 Sickle_wheel_004
+    4300018: SS-25 Sickle_wheel_005
+    4300020: SS-25 Sickle_wheel_006
+    4300022: SS-25 Sickle_wheel_007
+    4300024: SS-25 Sickle_wheel_008
+    4300026: SS-25 Sickle_wheel_009
+    4300028: SS-25 Sickle_wheel_010
+    4300030: SS-25 Sickle_wheel_011
+    4300032: SS-25 Sickle_wheel_012
+    4300034: SS-25 Sickle_wheel_013
+    4300036: SS-25 Sickle_wheel_014
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
